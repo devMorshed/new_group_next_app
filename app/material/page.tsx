@@ -2,7 +2,8 @@
 const Material = () => {
   return (
     <div>
-      <p>This is Material :3 </p>
+      <p>This is Material </p>
+      <p>Bla Bla Bla</p>
     </div>
   );
 };
